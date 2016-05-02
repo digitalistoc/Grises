@@ -3,5 +3,9 @@ span{
 	right:15%;
 }
 .navbar-brand{
-	font-size: 180%;
+	font-size: 250%;
 }
+#gris{
+	background-color: silver;
+}
+
